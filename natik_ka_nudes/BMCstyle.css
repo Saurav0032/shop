@@ -1,0 +1,78 @@
+body {
+				background: #000000;
+				color: #ffffff;
+}
+
+
+/* Header **/
+header{
+  background: #efce00;
+  color: #007916;
+  padding-top:20px;
+  min-height:40px;
+  border-bottom:#2affc0 3px solid;
+  min-width: 70px;
+}
+
+.highlight, header .current a{
+  color:#0018ff;
+  font-weight:bold;
+  margin-left: 90px;
+}
+
+header a:hover{
+  color:#cccccc;
+  font-weight:bold;
+}
+
+/* Boxes */
+#boxes{
+  margin-top:20px;
+}
+
+
+#boxes .box img{
+  width:520px;
+}
+
+img{
+				width: auto;
+				height: auto;
+}								
+ul{
+  margin:0;
+  padding:0;
+  
+  nav{
+  float:right;
+  margin-top:10px;
+}
+
+li{
+  float:left;
+  display:inline;
+  padding: 0 20px 0 20px;
+}
+
+/* Services */
+ul#services li{
+  list-style: none;
+  padding:20px;
+  border: #cccccc solid 1px;
+  margin-bottom:5px;
+  background:#e6e6e6;
+}
+
+footer{
+  padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color:#e8491d;
+  text-align: center;
+}
+
+#Updates{
+				margin-left: 220;
+				margin-top: 0px;
+				padding: 20px;
+}
